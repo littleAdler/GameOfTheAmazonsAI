@@ -1612,3 +1612,64 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact ubc-yong-gao:
 2019-03-27 05:09:44,423 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-03-27 05:09:44,426 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
 2019-03-27 05:09:44,430 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:09:44,436 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:12:33,963 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:12:33,977 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:12:33,981 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:12:33,989 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:12:40,325 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:12:40,329 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:12:40,332 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:12:40,338 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:12:41,396 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:12:41,399 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:12:41,403 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:12:41,409 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:12:44,848 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:12:44,852 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:12:44,855 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:12:44,859 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:13:06,982 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:13:06,985 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:13:06,989 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:13:06,993 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:13:29,727 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:13:29,730 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:13:29,733 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:13:29,739 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:14:48,974 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:14:48,981 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:14:48,986 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:14:48,991 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:15:08,733 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:15:08,736 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:15:08,740 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:15:08,745 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:15:30,024 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:15:30,027 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:15:30,031 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:15:30,035 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:16:00,281 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:16:00,284 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:16:00,288 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:16:00,293 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:16:17,867 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:16:17,871 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:16:17,874 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:16:17,880 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:16:32,659 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:16:32,662 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:16:32,665 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:16:32,670 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:16:40,815 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:16:40,817 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:16:40,821 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:16:40,827 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:16:52,087 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:16:52,090 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:16:52,094 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:16:52,100 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
+2019-03-27 05:17:13,070 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:17:13,074 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\main\resources
+2019-03-27 05:17:13,079 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 05:17:13,089 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mspou_000\Desktop\5th Year\Term 2\Amazons\game-client-team-00\team-00\src\test\resources
