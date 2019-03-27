@@ -1,0 +1,13 @@
+package cosc322;
+
+public class Queen {
+	int row;
+	int col;
+	
+	public Queen(){
+		
+	}
+	
+	//get queen object location
+	
+}

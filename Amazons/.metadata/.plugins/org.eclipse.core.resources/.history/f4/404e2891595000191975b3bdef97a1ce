@@ -1,0 +1,7 @@
+package cosc322;
+
+public class GameConstraints {
+	GameBoard board = new GameBoard[10][10];
+	
+
+}

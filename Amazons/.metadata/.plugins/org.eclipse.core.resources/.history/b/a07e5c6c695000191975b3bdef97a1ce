@@ -1,0 +1,59 @@
+package cosc322;
+
+import cern.colt.Arrays;
+
+public class GameConstraints {
+	GameBoard[][] board = new GameBoard[10][10];
+	
+	
+	public GameConstraints() {
+		board = new GameBoard[][]{
+			{null,null,null,new Queen(0,3,"Black"),null,null,new Queen(0,6,"Black"),null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			{new Queen(3,0,"Black"),null,null,null,null,null,null,null,null,new Queen(3,9,"Black")},
+			{null,null,null,null,null,null,null,null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			{new Queen(6,0,"White"),null,null,null,null,null,null,null,null,new Queen(6,9,"White")},
+			{null,null,null,null,null,null,null,null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			{null,null,null,new Queen(9,3,"White"),null,null,new Queen(9,6,"White"),null,null,null},
+			
+		};
+		
+		
+	}
+	public void updateBoard(Integer[] move){
+		//move contains the queens new position and the arrow location (msg from the server or our move)
+		//*** Read move message from the server ***
+		
+		//Check co-ordinate validity in console (for debugging)
+		System.out.println("Game Board Update Success");
+		System.out.println("Returned: " + Arrays.toString(move));
+		System.out.println("Board:" + Arrays.toString(board));
+		//Update local game board
+		
+		
+	}
+	
+	//print out the local board
+	public void printBoard(){
+		
+		StringBuilder row = new StringBuilder();
+		
+		for(int i=0; i<10; i++){
+			for(int j=0; j<10; j++){
+				if(board[i][j].equals(null)){//handle the null case first, so subsequent cases don't have to worry about a "null.toString()" error
+					row.append("|___|");
+				}else if(board[i][j].toString().equals("White Queen")){
+					row.append("| W |");
+				}else if(board[i][j].toString().equals("Black Queen")){
+					row.append("| B |");
+				}
+			}
+		}
+	}
+	
+	
+
+}

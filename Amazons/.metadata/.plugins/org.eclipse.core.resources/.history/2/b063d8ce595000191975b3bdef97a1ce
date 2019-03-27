@@ -1,0 +1,11 @@
+package cosc322;
+
+public class Queen {
+	int row;
+	int col;
+	
+	public Queen(){
+		
+	}
+	
+}

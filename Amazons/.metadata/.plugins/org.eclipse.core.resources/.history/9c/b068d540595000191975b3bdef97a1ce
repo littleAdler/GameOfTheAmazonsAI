@@ -1,0 +1,14 @@
+package cosc322;
+
+public class GameBoard {
+	protected int row;
+	protected int col;
+	//For game board instantiation
+	public GameBoard(int row,int col){
+		this.row = row;
+		this.col = col;
+	}
+	
+	
+	
+}

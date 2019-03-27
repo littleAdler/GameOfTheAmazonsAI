@@ -1,0 +1,13 @@
+package cosc322;
+
+public class GameBoard {
+	protected int row=0;
+	protected int col=0;
+	
+	public GameBoard(){
+		String board = null;
+	}
+	
+	
+	
+}

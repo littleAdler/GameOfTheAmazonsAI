@@ -1,0 +1,16 @@
+package cosc322;
+
+public class Queen {
+	int row;
+	int col;
+	String type;
+	
+	public Queen(int row, int col, String type){
+		this.row = row;
+		this.col = col;
+		
+	}
+	
+	//get queen object location
+	
+}

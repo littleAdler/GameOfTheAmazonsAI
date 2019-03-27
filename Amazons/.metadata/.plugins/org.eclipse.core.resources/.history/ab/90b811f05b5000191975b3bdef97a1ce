@@ -1,0 +1,24 @@
+package cosc322;
+
+public class GameConstraints {
+	GameBoard[][] board = new GameBoard[10][10];
+	Queen[] q;
+	
+	public GameConstraints() {
+		board = new GameBoard[][]{
+			{null,null,null,Queen(0,3),null,null,null,null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			{null,null,null,null,null,null,null,null,null,null},
+			
+		};
+	}
+	
+
+}

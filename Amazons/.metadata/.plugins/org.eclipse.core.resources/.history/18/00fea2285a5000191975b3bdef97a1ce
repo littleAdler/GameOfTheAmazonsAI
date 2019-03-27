@@ -1,0 +1,22 @@
+package cosc322;
+
+public class Queen {
+	//Limit access to subclass (same package)
+	int row;
+	int col;
+	String type;
+	
+	public Queen(int row, int col, String type){
+		this.row = row;
+		this.col = col;
+		this.type = type;
+	}
+	
+	//get queen object location
+	public int[] getQueenLocation(){
+		int[] location = {this.col,this.row};
+		return location;
+	}
+	
+	
+}
