@@ -1,0 +1,10 @@
+package cosc322;
+
+public class GameTree {
+	//TODO: instantiate Node based tree
+	
+	//use possibleQueenMoves and possibleArrowMoves
+	
+	Node root = new Node();
+	
+}

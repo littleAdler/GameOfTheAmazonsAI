@@ -22,7 +22,6 @@ INDEX VERSION 1.130+C:\Users\mspou_000\Desktop\5th Year\Term 2\GameOfTheAmazonsA
 2161747041.index
 240381060.index
 1713295793.index
-2208428542.index
 1110334383.index
 1662654700.index
 2707737922.index

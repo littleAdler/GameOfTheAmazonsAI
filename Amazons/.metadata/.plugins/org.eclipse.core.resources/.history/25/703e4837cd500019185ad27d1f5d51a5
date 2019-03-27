@@ -1,0 +1,16 @@
+package cosc322;
+
+public class GameTree {
+	//TODO: instantiate Node based tree
+	
+	//use possibleQueenMoves(oldQueenRow,oldQueenCol) and possibleArrowMoves(newQueenRow,newQueenCol) to iteratively fill the node based tree
+	
+	Node root = new Node();
+	
+	public GameTree(GameBoard[][] board){
+		
+	}
+	
+	
+	
+}

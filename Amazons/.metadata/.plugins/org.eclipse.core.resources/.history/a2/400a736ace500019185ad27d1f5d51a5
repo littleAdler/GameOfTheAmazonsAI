@@ -1,0 +1,19 @@
+package cosc322;
+
+public class GameTree {
+	//TODO: instantiate Node based tree
+	
+	//use possibleQueenMoves(oldQueenRow,oldQueenCol) and possibleArrowMoves(newQueenRow,newQueenCol) to iteratively fill the node based tree
+	GameBoard[][] board = null;
+	Node root;
+	
+	//handles if the opponent moves first
+	public GameTree(GameBoard[][] board){
+		this.board = board;
+		this.root = new Node(board);
+	}
+	
+	
+	
+	
+}

@@ -1,0 +1,7 @@
+package cosc322;
+
+public class GameTree {
+	//TODO: instantiate Node based tree
+	Node root = new Node();
+	
+}
