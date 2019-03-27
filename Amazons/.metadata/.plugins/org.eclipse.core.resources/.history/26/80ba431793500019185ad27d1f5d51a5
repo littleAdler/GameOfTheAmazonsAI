@@ -1,0 +1,17 @@
+package cosc322;
+
+public class Node {
+	Queen queen;
+	Arrow arrow;
+	GameConstraints board;
+	
+	public Node(Queen queen, Arrow arrow,GameConstraints board ){
+		this.queen=queen;
+		this.arrow=arrow;
+		this.board=board;
+	}
+	
+	
+	
+	
+}
