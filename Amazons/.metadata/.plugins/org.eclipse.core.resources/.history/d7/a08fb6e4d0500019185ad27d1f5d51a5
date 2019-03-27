@@ -1,0 +1,26 @@
+package cosc322;
+import java.util.ArrayList;
+public class Node {
+	Queen queen;
+	Arrow arrow;
+	GameBoard[][] board;
+	
+	//implicitly define a tree using recursive child nodes
+	ArrayList<Node> children = new ArrayList<Node>();
+	
+	public Node(GameBoard[][] board ){
+		
+		this.board=board;
+		//TODO: Add heuristic to Node
+	}
+	
+	public void addChildren(){
+		//Create a clone of the board
+		
+		
+	}
+	
+	
+	
+	
+}

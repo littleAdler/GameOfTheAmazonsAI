@@ -1,0 +1,26 @@
+package cosc322;
+
+public class GameTree {
+	//TODO: instantiate Node based tree
+	
+	//use possibleQueenMoves(oldQueenRow,oldQueenCol) and possibleArrowMoves(newQueenRow,newQueenCol) to iteratively fill the node based tree
+	
+	Node root;
+	
+	
+	public GameTree(GameBoard[][] board){
+		this.root = new Node(board);
+	}
+	
+	public void addChildren(){
+		
+		//Create clones of the initial board
+		
+		
+	}
+	
+	
+	
+	
+	
+}
