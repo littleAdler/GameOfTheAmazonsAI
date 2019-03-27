@@ -1,0 +1,18 @@
+package cosc322;
+
+public class Node {
+	Queen queen;
+	Arrow arrow;
+	GameConstraints board;
+	Arraylist<Node> children = new Arraylist<Node>();
+	
+	public Node(Queen queen, Arrow arrow,GameConstraints board ){
+		this.queen=queen;
+		this.arrow=arrow;
+		this.board=board;
+	}
+	
+	
+	
+	
+}
