@@ -1,0 +1,14 @@
+package cosc322;
+
+public class Arrow extends GameBoard{
+	int row;
+	int col;
+	
+	public Arrow(int row, int col){
+		super(row,col)
+		this.row = row;
+		this.col = col;
+	}
+	
+
+}
